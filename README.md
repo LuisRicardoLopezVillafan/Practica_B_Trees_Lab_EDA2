@@ -1,2 +1,2 @@
-# Practica_B_Trees_Lab_EDA2
-Implementación de las operaciones que se pueden realizar en los B-árboles
+# Práctica 8 - B-árboles
+**Instrucciones**: Implementar las operaciones de búsqueda, inserción y borrado de un índice almacenado en un B-árbol. Pueden usar el lenguaje de su preferencia.
